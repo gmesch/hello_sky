@@ -1,4 +1,4 @@
-package 'package:sky/widgets.dart';
+import 'package:sky/widgets.dart';
 
 class HelloWorldApp extends App {
   Widget build() {
